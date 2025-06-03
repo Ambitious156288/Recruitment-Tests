@@ -33,4 +33,4 @@ Below are the detailed steps performed by the automated test:
 
 ## Test file 
 
-You should write test case under /tests/iinterview.spec.js
+You should write your test cases in /tests/interview.spec.js
