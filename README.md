@@ -30,3 +30,7 @@ Below are the detailed steps performed by the automated test:
 
 5. **Verify redirect to '/secure' url**  
    After a successful login verify url 'secure'.
+
+## Test file 
+
+You should write test case under /tests/iinterview.spec.js
