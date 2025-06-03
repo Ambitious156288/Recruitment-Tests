@@ -26,4 +26,7 @@ Below are the detailed steps performed by the automated test:
    The test clicks the **Log in** button to submit the form.
 
 4. **Verify success message**  
-   After a successful login verify success message and url 'secure'.
+   After a successful login verify success message..
+
+5. **Verify redirect to '/secure' url**  
+   After a successful login verify url 'secure'.
