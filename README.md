@@ -4,11 +4,24 @@ This automated test verifies a successful login on the following website:
 https://the-internet.herokuapp.com/login
 
 ## Prerequisites
+```bash
+git clone https://github.com/Ambitious156288/Recruitment-Tests.git
+```
 
 ```bash
 npm install
-npx playwright test
 ```
+
+```bash
+npm run watch
+```
+or
+```bash
+npm run test
+```
+
+ 
+
 
 ## Test Steps
 
